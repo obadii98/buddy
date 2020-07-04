@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">buddytest2</string>
+
+    <string-array name="food">
+        <item>:CHOOSE YOUR FOOD:</item>
+        <item>Indomie</item>
+        <item>Oat</item>
+        <item>Tuna</item>
+        <item>Egg</item>
+        <item>Banana</item>
+        <item>Rice</item>
+        <item>Peanut</item>
+        <item>Chocolate</item>
+        <item>Peanut Butter</item>
+        <item>Milk</item>
+        <item>Protein</item>
+    </string-array>
+</resources>
